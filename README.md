@@ -4,7 +4,7 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 ##How to own this recipe
 - Click "Fork" in the top right corner of the page and it's yours :)
 
-##How to improve this recipe
+##How to improve this recipe How to Improve this
 - Click clone in desktop on this page
 - Open recipe in text editor
 - Make suggested changes to recipe in the README.md
